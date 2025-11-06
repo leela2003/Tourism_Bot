@@ -1,4 +1,4 @@
-# 🇮🇳 Indian States Tourism Telegram Bot
+# Indian States Tourism Telegram Bot
 
 This project is a **Telegram chatbot** built with Python that provides **top tourism destinations** for any Indian state.  
 It uses a dataset (`indian_states_tourism_places.csv`) containing all Indian states and their famous tourist attractions.
