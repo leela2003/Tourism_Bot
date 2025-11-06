@@ -20,10 +20,10 @@ It uses a dataset (`indian_states_tourism_places.csv`) containing all Indian sta
 Here’s a glimpse of how the bot works in Telegram 👇
 
 ### 🗨️ Example Chat 1
-![Tourism Bot Chat 1](./58991db4-76b1-4498-aa4c-a4c8c216946d.png)
+![Tourism Bot Chat 1](./Example1.png)
 
 ### 🗨️ Example Chat 2
-![Tourism Bot Chat 2](./848032e3-6217-4d58-a5c0-645ff1b9f453.png)
+![Tourism Bot Chat 2](./Example2.png)
 
 ---
 
