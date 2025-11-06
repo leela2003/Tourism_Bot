@@ -36,8 +36,6 @@ tourism_bot_project/
 ├── indian_states_tourism_places.csv # Dataset file
 ├── README.md                        # Documentation
 ├── requirements.txt                 # Python dependencies
-├── Example1.png  # Screenshot 1
-└── Example2.png  # Screenshot 2
 ```
 
 ---
